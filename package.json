@@ -12,7 +12,7 @@
     "@popclip/helpers": "file:lib/@popclip/helpers",
     "@popclip/test": "file:lib/@popclip/test",
     "@tryfabric/martian": "^1.2.4",
-    "@types/crypto-js": "^4.1.1",
+    "@types/crypto-js": "^4.2.2",
     "@types/voca": "^1.4.1",
     "case-anything": "^2.1.10",
     "core-js": "^3.22.7",
